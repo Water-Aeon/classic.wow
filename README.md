@@ -1,4 +1,4 @@
-# Hunter
+# Raein Vanilla/Classic WoW Hunter
 
 <h2 style="border-bottom: none; margin-top: 6px">
         <a href="/hunterpets.md">Pets</a> -
