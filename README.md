@@ -1,4 +1,4 @@
-# WoW Hardcore Classic Era Hunter Guide by Raein
+# WoW Hardcore Classic Era Hunter Notes by Raein
 <h2 style="border-bottom: none; margin-top: 6px">
         <a href="/README.md">Home</a>
       </h2>
