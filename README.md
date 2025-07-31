@@ -1,6 +1,6 @@
 # WoW Hardcore Classic Era Hunter Notes by Raein
 <h2 style="border-bottom: none; margin-top: 6px">
-        <a href="https://water-aeon.github.io/hunter/">Home</a>
+        <a href="https://water-aeon.github.io/hunter/README.md">Home</a>
       </h2>
 <h2 style="border-bottom: none; margin-top: 6px">
         <a href="/pets.md">Pets</a> -
