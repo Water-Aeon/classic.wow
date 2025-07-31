@@ -1,10 +1,10 @@
 # WoW Hardcore Classic Era Hunter Notes by Raein
 <h2 style="border-bottom: none; margin-top: 6px">
-        <a href="https://water-aeon.github.io/hunter/README.md">Home</a>
+        <a href="/hunter/">Home</a>
       </h2>
 <h2 style="border-bottom: none; margin-top: 6px">
-        <a href="/pets.md">Pets</a> -
-        <a href="/talents.md">Talents</a> -
-        <a href="/macros.md">Macros</a> -
-        <a href="/addons.md">Addons</a> -
+        <a href="/hunter/pets">Pets</a> -
+        <a href="/hunter/talents">Talents</a> -
+        <a href="/hunter/macros">Macros</a> -
+        <a href="/hunter/addons">Addons</a> -
       </h2>
