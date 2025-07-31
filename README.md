@@ -1,7 +1,7 @@
-# Hunter Guide
+# Raein Classic WoW Guides
 
 <h2 style="border-bottom: none; margin-top: 6px">
-        <a href="/guide/">Intro</a> -
+        <a href="/main/hunter">Intro</a> -
         <a href="/pets">Pets</a> -
         <a href="/leveling">Leveling</a> -
         <a href="/guide/pve">PvE</a> -
