@@ -1,5 +1,18 @@
 # Hunter Guide
 
+<h2 style="border-bottom: none; margin-top: 6px">
+        <a href="/guide/">Intro</a> -
+        <a href="/guide/pets">Pets</a> -
+        <a href="/guide/leveling">Leveling</a> -
+        <a href="/guide/pve">PvE</a> -
+        <a href="/guide/pvp">PvP</a> -
+        <a href="/guide/raiding">Raiding</a> -
+        <a href="/guide/gearing">Gearing</a> -
+        <a href="/guide/rhok'delar">Rhok'delar</a> -
+        <a href="/guide/diremaul">Diremaul</a> -
+        <a href="/guide/about">About</a>
+      </h2>
+
 Auto Shot Macro
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#showtooltip
 /cleartarget [dead]
