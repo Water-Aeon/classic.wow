@@ -1,4 +1,4 @@
-# WoW Hardcore HC Classic Era Hunter Guide by Raein
+# WoW Hardcore Classic Era Hunter Guide by Raein
 
 <h2 style="border-bottom: none; margin-top: 6px">
         <a href="/hunterpets.md">Pets</a> -
