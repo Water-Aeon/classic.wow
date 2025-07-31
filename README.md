@@ -1,9 +1,10 @@
 # Hunter
 
 <h2 style="border-bottom: none; margin-top: 6px">
-        <a href="/pets.md">Pets</a> -
-        <a href="/talents.md">Talents</a> -
-        <a href="/macros.md">Macros</a> -
+        <a href="/hunterpets.md">Pets</a> -
+        <a href="/huntertalents.md">Talents</a> -
+        <a href="/huntermacros.md">Macros</a> -
+        <a href="/hunteraddons.md">Addons</a> -
       </h2>
 
 <h2 id="mouseover">
