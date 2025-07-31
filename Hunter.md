@@ -1,3 +1,8 @@
+<h2 style="border-bottom: none; margin-top: 6px">
+        <a href="/Hunter/Pets.md">Pets</a> -
+      </h2>
+
+
 Auto Shot Macro
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#showtooltip
 /cleartarget [dead]
