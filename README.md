@@ -7,3 +7,7 @@ Auto Shot Macro
 /stopattack
 /cast !Auto Shot
 </code></pre></div></div>
+
+<h2 id="mouseover">
+    <a href="#mouseover">#</a> Mouseover
+</h2>
