@@ -1,11 +1,10 @@
+#Hunter
+
 <h2 style="border-bottom: none; margin-top: 6px">
         <a href="/Hunter/Pets.md">Pets</a> -
         <a href="/Hunter/Leveling Talents.md">Leveling Talents</a> -
         <a href="/Hunter/Macros.md">Macros</a> -
       </h2>
-
-
-
 
 <h2 id="mouseover">
     <a href="#mouseover">#</a> Mouseover
