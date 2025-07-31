@@ -11,3 +11,9 @@ Auto Shot Macro
 <h2 id="mouseover">
     <a href="#mouseover">#</a> Mouseover
 </h2>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">/cast [@mouseover,harm,nodead][] Viper Sting</code></li>
+  <li><code class="language-plaintext highlighter-rouge">/cast [@mouseover,harm,nodead][] Serpent Sting</code></li>
+  <li><code class="language-plaintext highlighter-rouge">/cast [@mouseover,harm,nodead][] Scorpid Sting</code></li>
+</ul>
